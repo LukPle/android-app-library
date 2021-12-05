@@ -3,8 +3,9 @@ Welcome to this repository. The Android App Library is an Open Source project co
 All source code is written in Java with the exception of the XML styling in layout files and the SQL in database queries.
 
 This work is connected to the bachelor thesis of the repisotory owner [Lukas Plenk](https://github.com/LukPle) from the 
-[Deggendorf Institute of Technology](https://www.th-deg.de/en) but can be used for any purpose. Thank you for checking out the library and supporting
-Open Source projects.
+[Deggendorf Institute of Technology](https://www.th-deg.de/en) but can be used for any purpose.
+
+Thank you for checking out the library and supporting Open Source projects.
 
 # Goals
 Learning different aspects of coding for Android can be tricky. Code examples often include to many features with sometimes outdated code snippets. This library should give everyone simple apps that diplay only a certain feature of Android. This makes the learning process more simple and easy to understand.
