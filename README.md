@@ -1,4 +1,6 @@
-# About
+# Android App Library
+
+## About
 Welcome to this repository. The Android App Library is an Open Source project containing multiple apps which showcase one or more features of the Android platform.
 All source code is written in Java with the exception of the XML styling in layout files and the SQL in database queries.
 
@@ -7,10 +9,14 @@ This work is connected to the bachelor thesis of the repisotory owner [Lukas Ple
 
 Thank you for checking out the library and supporting Open Source projects.
 
-# Goals
-Learning different aspects of coding for Android can be tricky. Code examples often include to many features with sometimes outdated code snippets. This library should give everyone simple apps that diplay only a certain feature of Android. This makes the learning process more simple and easy to understand.
+## Goals
+Learning different aspects of coding for Android can be tricky. Some websites and articles focus to much on descriptive explanations and do not offer useful code to inspect. Code examples on the other hand often include to many features at once with sometimes even outdated and deprecated components. 
+This library should give everyone simple apps that diplay only certain features of Android. They can be fully modified and used for different scenarios.
+This makes the learning process more simple, easy to understand and fun.
 
-# List of Apps
+The library is also useful for people who have a coding background but are not familiar with writing apps for Android because the applications in this repository cover most of the common features and display them in an isolated example. The code is also well documented for more accessability. This enables developers to use different samples and combine them for their idea or the anticipated use case without doing a lot of research on how to specificly code for Android.
+
+## List of Apps
 
 Applications for the following Android features are available:
 
@@ -53,8 +59,8 @@ Applications for the following Android features are available:
 * Database
   * [Room Database](https://github.com/LukPle/room-database.git)
 
-# Feedback and Contributing
+## Feedback and Contributing
 There is currently no option for contribution or providing any help. The project is in an early stage and community management will be available in the future.
 
-# Licensing
+## Licensing
 This project uses the [MIT](LICENSE) license.
