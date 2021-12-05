@@ -60,7 +60,9 @@ Applications for the following Android features are available:
   * [Room Database](https://github.com/LukPle/room-database.git)
 
 ## Feedback and Contributing
-There is currently no option for contribution or providing any help. The project is in an early stage and community management will be available in the future.
+There is currently no option for contribution or providing any help. Community management will be available in the near future.
+
+Please consider the [Code of Conduct](CODE_OF_CONDUCT) when interacting with other people and be nice to each other.
 
 ## Licensing
 This project uses the [MIT](LICENSE) license.
