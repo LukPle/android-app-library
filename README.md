@@ -42,12 +42,12 @@ Applications for the following Android features are available:
 * Lists
   * [ListView](https://github.com/LukPle/listview.git)
   * [RecyclerView](https://github.com/LukPle/recyclerview-adapter.git)
-  * [RecyclerView with FloatingActionButton](https://github.com/LukPle/floating-action-button.git)
-  * [RecyclerView with Swipe To Delete](https://github.com/LukPle/recyclerview-swipe-to-delete.git)
-  * [RecyclerView with Update-Dialog](https://github.com/LukPle/recyclerview-update-dialog.git)
-  * [RecyclerView with Update-Activity](https://github.com/LukPle/recyclerview-update-activity.git)
-  * [RecyclerView with SearchView](https://github.com/LukPle/recyclerview-searchview.git)
-  * [RecyclerView with Sorting](https://github.com/LukPle/recyclerview-sort-items.git)
+    * [RecyclerView with FloatingActionButton](https://github.com/LukPle/floating-action-button.git)
+    * [RecyclerView with Swipe To Delete](https://github.com/LukPle/recyclerview-swipe-to-delete.git)
+    * [RecyclerView with Update-Dialog](https://github.com/LukPle/recyclerview-update-dialog.git)
+    * [RecyclerView with Update-Activity](https://github.com/LukPle/recyclerview-update-activity.git)
+    * [RecyclerView with SearchView](https://github.com/LukPle/recyclerview-searchview.git)
+    * [RecyclerView with Sorting](https://github.com/LukPle/recyclerview-sort-items.git)
 
 * External Data and Permissions
   * [Location and MapView](https://github.com/LukPle/mapview-location.git)
