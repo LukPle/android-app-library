@@ -14,7 +14,7 @@ Learning different aspects of coding for Android can be tricky. Code examples of
   * [Time and Date Picker]()
 
 * Output of Content
-  * [Splashscreen]() 
+  * [Splashscreen](https://github.com/LukPle/splashscreen.git) 
   * [TextToSpeech](https://github.com/LukPle/text-to-speech.git)
   * [ViedoView and RatingBar](https://github.com/LukPle/videoview-ratingbar.git)
 
