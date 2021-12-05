@@ -23,6 +23,13 @@ Learning different aspects of coding for Android can be tricky. Code examples of
   * [RecyclerView with SearchView](https://github.com/LukPle/recyclerview-searchview.git)
   * [RecyclerView with Sorting](https://github.com/LukPle/recyclerview-sort-items.git)
 
+* External Data and Permissions
+  * [Location and MapView](https://github.com/LukPle/mapview-location.git)
+  * [Camera, Gallery and ImageView](https://github.com/LukPle/imageview-camera-gallery.git)
+
+* Database
+  * [Room Database](https://github.com/LukPle/room-database.git) 
+
 # Feedback and Contributing
 There is currently no option for contribution or providing any help. The project is in an early stage and community management will be available in the future.
 
