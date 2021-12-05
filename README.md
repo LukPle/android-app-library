@@ -6,8 +6,17 @@ Learning different aspects of coding for Android can be tricky. Code examples of
 
 # List of Apps
 
+* Methods for Input
+  * [Button with Intent](https://github.com/LukPle/button-intent.git)
+  * [ImageButton](https://github.com/LukPle/imagebutton.git)
+  * [EditText](https://github.com/LukPle/edittext-intent-extra.git)
+  * [Checkbox, RadioButton and Switch](https://github.com/LukPle/checkbox-radiobutton-switch.git)
+  * [Time and Date Picker]()
+
 * Output of Content
+  * [Splashscreen]() 
   * [TextToSpeech](https://github.com/LukPle/text-to-speech.git)
+  * [ViedoView and RatingBar](https://github.com/LukPle/videoview-ratingbar.git)
 
 * Navigation
   * [Bottom Navigation](https://github.com/LukPle/bottom-navigation.git)
@@ -27,8 +36,14 @@ Learning different aspects of coding for Android can be tricky. Code examples of
   * [Location and MapView](https://github.com/LukPle/mapview-location.git)
   * [Camera, Gallery and ImageView](https://github.com/LukPle/imageview-camera-gallery.git)
 
+* Notifications and Widgets 
+  * [Animation and Transition]() 
+  * [Foreground Notification]()
+  * [Background Notification]()
+  * [Widget]()
+
 * Database
-  * [Room Database](https://github.com/LukPle/room-database.git) 
+  * [Room Database](https://github.com/LukPle/room-database.git)
 
 # Feedback and Contributing
 There is currently no option for contribution or providing any help. The project is in an early stage and community management will be available in the future.
