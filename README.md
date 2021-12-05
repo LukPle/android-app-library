@@ -6,12 +6,14 @@ Learning different aspects of coding for Android can be tricky. Code examples of
 
 # List of Apps
 
+Applications for the following Android features are available:
+
 * Methods for Input
   * [Button with Intent](https://github.com/LukPle/button-intent.git)
   * [ImageButton](https://github.com/LukPle/imagebutton.git)
   * [EditText](https://github.com/LukPle/edittext-intent-extra.git)
   * [Checkbox, RadioButton and Switch](https://github.com/LukPle/checkbox-radiobutton-switch.git)
-  * [Time and Date Picker]()
+  * [Time and Date Picker](https://github.com/LukPle/time-and-date-picker.git)
 
 * Output of Content
   * [Splashscreen](https://github.com/LukPle/splashscreen.git) 
@@ -37,10 +39,10 @@ Learning different aspects of coding for Android can be tricky. Code examples of
   * [Camera, Gallery and ImageView](https://github.com/LukPle/imageview-camera-gallery.git)
 
 * Notifications and Widgets 
-  * [Animation and Transition]() 
-  * [Foreground Notification]()
-  * [Background Notification]()
-  * [Widget]()
+  * [Animation and Transition](https://github.com/LukPle/animation-transition.git) 
+  * [Foreground Notification](https://github.com/LukPle/android-notification-foreground.git)
+  * [Background Notification](https://github.com/LukPle/android-notification-background.git)
+  * [Widget](https://github.com/LukPle/android-widget.git)
 
 * Database
   * [Room Database](https://github.com/LukPle/room-database.git)
