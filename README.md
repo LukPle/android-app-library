@@ -28,9 +28,12 @@ Applications for the following Android features are available:
   * [Time and Date Picker](https://github.com/LukPle/time-and-date-picker.git)
 
 * Output of Content
-  * [Splashscreen](https://github.com/LukPle/splashscreen.git) 
-  * [TextToSpeech](https://github.com/LukPle/text-to-speech.git)
+  * [Text To Speech](https://github.com/LukPle/text-to-speech.git)
   * [ViedoView and RatingBar](https://github.com/LukPle/videoview-ratingbar.git)
+
+* Screen Transitions
+  * [Splashscreen](https://github.com/LukPle/splashscreen.git) 
+  * [Animation and Transition](https://github.com/LukPle/animation-transition.git) 
 
 * Navigation
   * [Bottom Navigation](https://github.com/LukPle/bottom-navigation.git)
@@ -51,7 +54,6 @@ Applications for the following Android features are available:
   * [Camera, Gallery and ImageView](https://github.com/LukPle/imageview-camera-gallery.git)
 
 * Notifications and Widgets 
-  * [Animation and Transition](https://github.com/LukPle/animation-transition.git) 
   * [Foreground Notification](https://github.com/LukPle/android-notification-foreground.git)
   * [Background Notification](https://github.com/LukPle/android-notification-background.git)
   * [Widget](https://github.com/LukPle/android-widget.git)
@@ -59,7 +61,7 @@ Applications for the following Android features are available:
 * Database
   * [Room Database](https://github.com/LukPle/room-database.git)
 
-## Feedback and Contributing
+## Feedback and Contribution
 There is currently no option for contribution or providing any help. Community management will be available in the near future.
 
 Please consider the [Code of Conduct](CODE_OF_CONDUCT) when interacting with other people and be nice to each other.
