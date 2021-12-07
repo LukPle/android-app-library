@@ -64,7 +64,7 @@ Applications for the following Android features are available:
 ## Feedback and Contribution
 There is currently no option for contribution or providing any help. Community management will be available in the near future.
 
-Please consider the [Code of Conduct](CODE_OF_CONDUCT) when interacting with other people and be nice to each other.
+Please consider the [Code of Conduct](CODE_OF_CONDUCT.md) when interacting with other people and be nice to each other.
 
 ## Licensing
 This project uses the [MIT](LICENSE) license.
