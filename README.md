@@ -29,7 +29,7 @@ Applications for the following Android features are available:
 
 * Output of Content
   * [Text To Speech](https://github.com/LukPle/text-to-speech.git)
-  * [ViedoView and RatingBar](https://github.com/LukPle/videoview-ratingbar.git)
+  * [VideoView and RatingBar](https://github.com/LukPle/videoview-ratingbar.git)
 
 * Screen Transitions
   * [Splashscreen](https://github.com/LukPle/splashscreen.git) 
